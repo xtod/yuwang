@@ -6,6 +6,8 @@ type: docs
 
 一个光怪陆离的社会，一本光怪陆离的书。
 
+![狱望](/images/yuwang.jpg "狱望")
+
 * [前言：我的监狱情结](/docs/My-prison-complex/)
 * [世界监狱人口简报](/docs/Briefing-on-the-World-Prison-Population/)
 * [农村青年成长史](1.2.md)
